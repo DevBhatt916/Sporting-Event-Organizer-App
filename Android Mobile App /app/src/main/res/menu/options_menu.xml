@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/options_clearEventForm"
+        android:title="Clear Event Form" />
+    <item
+        android:id="@+id/options_DeleteAllCategories"
+        android:title="Delete All Categories" />
+    <item
+        android:id="@+id/optionsDeleteAllEvents"
+        android:title="Delete All Events" />
+    <item
+        android:id="@+id/options_refresh"
+        android:title="REFRESH"
+        app:showAsAction="always" />
+</menu>
